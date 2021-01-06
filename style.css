@@ -51,7 +51,7 @@ body{
     mix-blend-mode: overlay;
     font-size: 50px;
     font-family: 'Graduate', cursive;
-    
+    cursor:pointer;
   }
   
   @keyframes Gradient {
