@@ -4,12 +4,12 @@ You can use this app to watching any video on google chrome during using your PC
 
 #How to use Picture in picture APP
 ``
->At first you have to play any video on you Chrome Browser.
->Then reload this Picture IN Picture page.
->You will get a popup window with several tabs. 
->Now click on Chrome tab. 
->Then select your video from the list below. 
->After then click the button below.
+> 1. At first you have to play any video on you Chrome Browser.
+> 2. Then reload this Picture IN Picture page.
+> 3. You will get a popup window with several tabs. 
+> 4. Now click on Chrome tab. 
+> 5. Then select your video from the list below. 
+> 6. After then click the button below.
 ``
 
 Enjoy your Picture IN Piucture video.
